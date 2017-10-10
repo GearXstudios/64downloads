@@ -21,7 +21,7 @@
 
 This is the small and basic design model for the machine. The cost for this is $59.99 to $69.99 depending on specs.
 
-<br><img src="http://gearxstudios.github.io/GearX-Hub/design2.jpg"/><br>
+<br><img src="http://gearxstudios.github.io/GearX-Hub/design2.JPG"/><br>
 
 This is the enhanced model which you can upgrade the parts yourself or ask for a list of parts to be included from us that we have in stock. The cost for this is $99.99 to $119.99 depending on the specs.
 
