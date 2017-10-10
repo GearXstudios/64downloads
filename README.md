@@ -1,19 +1,19 @@
 # Games for your Machine
  Below are download links to many shareware games from our safe servers online! The games range from the EGA shareware of the mid 80's to the time of Quake in the 90's. Call us at (310)-902-4760 to be able to buy the full versions of these games; just give us your email then we will send it to you!
  
- [Quake](https://gearxstudios.github.io/GearX-Hub/)
+ [Quake](https://gearxstudios.github.io/GearX-Hub/quake.zip)
  
- [Doom](https://gearxstudios.github.io/GearX-Hub/)
+ [Doom](https://gearxstudios.github.io/GearX-Hub/doom.zip)
  
- [Doom II](https://gearxstudios.github.io/GearX-Hub/)
+ [Doom II](https://gearxstudios.github.io/GearX-Hub/doom2.zip)
  
- [Commander Keen 4](https://gearxstudios.github.io/GearX-Hub/)
+ [Commander Keen 4](https://gearxstudios.github.io/GearX-Hub/keen4.zip)
  
  [Hegemony X64](https://gearxstudios.github.io/GearX-Hub/)
  
- [VidCity (Gear Edition)](https://gearxstudios.github.io/GearX-Hub/)
+ [VidCity (Gear Edition)](https://gearxstudios.github.io/GearX-Hub/) - Our own GearX 64 Exclusive
  
- [Mario & Luigi](https://gearxstudios.github.io/GearX-Hub/)
+ [Mario & Luigi](https://gearxstudios.github.io/GearX-Hub/mario.zip)
  
 # Machine Design
 
