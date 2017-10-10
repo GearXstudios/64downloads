@@ -17,8 +17,14 @@
  
 # Machine Design
 
-<br><img src="http://gearxstudios.github.io/GearX-Hub/design.jpeg"/></a><br>
- 
+<br><img src="http://gearxstudios.github.io/GearX-Hub/design.jpeg"/><br>
+
+This is the small and basic design model for the machine. The cost for this is $59.99 to $69.99 depending on specs.
+
+<br><img src="http://gearxstudios.github.io/GearX-Hub/design2.jpg"/><br>
+
+This is the enhanced model which you can upgrade the parts yourself or ask for a list of parts to be included from us that we have in stock. The cost for this is $99.99 to $119.99 depending on the specs.
+
 # F.A.Q.
   These are constantly asked questions by our members, users, and buyers.
  
@@ -33,4 +39,7 @@
 ## Who started this organization?
  Me, my name is Nikolas Karinja
 
-<br><img src="http://gearxstudios.github.io/GearX-Hub/LOGO.png"/></a><br>
+<br><img src="http://gearxstudios.github.io/GearX-Hub/LOGO.png"/><br>
+(C) GearX Interactive 2017
+Phone - (310)-902-4760
+Email - gearxstudios@gmail.com
