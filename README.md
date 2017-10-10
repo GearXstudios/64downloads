@@ -15,8 +15,8 @@
  
  [Mario & Luigi](https://gearxstudios.github.io/GearX-Hub/)
  
-## F.A.Q.
+# F.A.Q.
   These are constantly asked questions by our members, users, and buyers.
  
-# Can I run these games on my PC? 
+## Can I run these games on my PC? 
   Technically, yes. But, with a machine like a GearX 64 and your USB, it allows you to play with Serial and Parallel port gamepads and joysticks like the Gravis PC Gamepad or and Atari Joystick! Although for a classic experience, we recommend using a wireless keyboard and mouse; a Logitech K330. 
