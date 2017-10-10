@@ -1,2 +1,2 @@
 # Games for your Machine
-A place to download many shareware games for your GearX 64 System. Below are download links to many shareware games from our safe servers online!
+ Below are download links to many shareware games from our safe servers online! The games range from the EGA shareware of the mid 80's to the time of Quake in the 90's
