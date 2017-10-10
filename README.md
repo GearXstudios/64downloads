@@ -15,6 +15,12 @@
  
  [Mario & Luigi](https://gearxstudios.github.io/GearX-Hub/mario.zip)
  
+# Want to make your own games for this console?
+
+ If you know how to program in windows Batch, C, C++, or Qbasic, then this console is meant for you. We will give anyone the right to make a CD or USB game for sale on public. You can sell them as long as we give you consent to release this game under our name. A great place to sell is on eBay! Download the kit below.
+ 
+ [GearX 64 Development Kit](https://gearxstudios.github.io/GearX-Hub/)- For the GearX 64, MS-DOS, and FreeDOS.
+ 
 # Machine Design
 
 <br><img src="http://gearxstudios.github.io/GearX-Hub/design.jpeg"/><br>
