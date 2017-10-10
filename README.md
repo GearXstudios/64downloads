@@ -19,11 +19,11 @@
 
 <br><img src="http://gearxstudios.github.io/GearX-Hub/design.jpeg"/><br>
 
-This is the small and basic design model for the machine. The cost for this is $59.99 to $69.99 depending on specs. This model can only play the USB based games.
+The GearX 64 Slim - This is the small and basic design model for the machine. The cost for this is $59.99 to $69.99 depending on specs. This model can only play the USB based games.
 
 <br><img src="http://gearxstudios.github.io/GearX-Hub/design2.JPG"/><br>
 
-This is the enhanced model which you can upgrade the parts yourself or ask for a list of parts to be included from us that we have in stock. The cost for this is $99.99 to $119.99 depending on the specs. This model can play Tthe GearX 64 ONLY CD-Based games and USB games. 
+The GearX 64 Pro - This is the enhanced model which you can upgrade the parts yourself or ask for a list of parts to be included from us that we have in stock. The cost for this is $99.99 to $119.99 depending on the specs. This model can play Tthe GearX 64 ONLY CD-Based games and USB games. 
 
 # F.A.Q.
   These are constantly asked questions by our members, users, and buyers.
