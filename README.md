@@ -41,5 +41,7 @@ This is the enhanced model which you can upgrade the parts yourself or ask for a
 
 <br><img src="http://gearxstudios.github.io/GearX-Hub/LOGO.png"/><br>
 (C) GearX Interactive 2017
+
 Phone - (310)-902-4760
+
 Email - gearxstudios@gmail.com
