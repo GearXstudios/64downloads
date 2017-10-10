@@ -24,4 +24,7 @@
  On a GearX 64 machine you will have no problem running these games. As long as your USB accepts your RAM as 16 MB, you can play even the oldest games for MS-DOS and FreeDOS! Plus we give you a USB that comes with our advanced MS-DOS / FreeDOS compatible GUI we call Skyline OS.
  
 ## Can't you find these shareware games all over the internet?
- Sure you can, but are all of the downloads from ALL OVER the web safe? We can garantee that games are.
+ Sure you can, but are all of the downloads from ALL OVER the web safe? We can garantee that our games are. Plus, what if you want the full versions of these games on the internet? Some of them are very hard to find and may be unsafe. So why not skip the hard labor for yourself and on a side note know that we will only give you safe ZIP files and EXE files.
+ 
+## Who started this organization?
+ Me, my name is Nikolas Karinja
