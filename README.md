@@ -37,7 +37,7 @@ The GearX 64 Pro - This is the enhanced model which you can upgrade the parts yo
  Sure you can, but are all of the downloads from ALL OVER the web safe? We can garantee that our games are. Plus, what if you want the full versions of these games on the internet? Some of them are very hard to find and may be unsafe. So why not skip the hard labor for yourself and on a side note know that we will only give you safe ZIP files and EXE files.
  
 ## Who started this organization?
- Me, my name is Nikolas Karinja
+ Me, my name is Nikolas Karinja. I started this in early 2017 with a passion for retro PC games. I had the idea and pushed it forward. Then my friends eventually joined in and we started a small organization called GearX Interactive.
 
 <br><img src="http://gearxstudios.github.io/GearX-Hub/LOGO.png"/><br>
 (C) GearX Interactive 2017
