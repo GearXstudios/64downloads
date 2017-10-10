@@ -19,4 +19,9 @@
   These are constantly asked questions by our members, users, and buyers.
  
 ## Can I run these games on my PC? 
-  Technically, yes. But, with a machine like a GearX 64 and your USB, it allows you to play with Serial and Parallel port gamepads and joysticks like the Gravis PC Gamepad or and Atari Joystick! Although for a classic experience, we recommend using a wireless keyboard and mouse; a Logitech K330. 
+  Technically, yes. But, with a machine like a GearX 64 and your USB, it allows you to play with Serial and Parallel port gamepads and joysticks like the Gravis PC Gamepad or and Atari Joystick! Although for a classic experience, we recommend using a wireless keyboard and mouse; a Logitech K330. To give labor consideration, with your modern PC you would have to use an emulator like DOSBox to play them; to use that you have knowledge in programming and some DOS commands (*Note that DOSBox uses MS-DOS 5.0 which is not compatible with MS-DOS 6.22 Programs that are also compatible with Windows 3.0 and above). 
+  
+ On a GearX 64 machine you will have no problem running these games. As long as your USB accepts your RAM as 16 MB, you can play even the oldest games for MS-DOS and FreeDOS! Plus we give you a USB that comes with our advanced MS-DOS / FreeDOS compatible GUI we call Skyline OS.
+ 
+## Can't you find these shareware games all over the internet?
+ Sure you can, but are all of the downloads from ALL OVER the web safe? We can garantee that games are.
