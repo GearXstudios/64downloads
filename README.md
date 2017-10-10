@@ -17,7 +17,7 @@
  
 # Machine Design
 
-<br><img src="http://gearxstudios.github.io/GearX-Hub/design.jpg"/></a><br>
+<br><img src="http://gearxstudios.github.io/GearX-Hub/design.jpeg"/></a><br>
  
 # F.A.Q.
   These are constantly asked questions by our members, users, and buyers.
