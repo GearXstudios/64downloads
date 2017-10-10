@@ -32,3 +32,5 @@
  
 ## Who started this organization?
  Me, my name is Nikolas Karinja
+
+<br><img src="http://gearxstudios.github.io/GearX-Hub/LOGO.png"/></a><br>
